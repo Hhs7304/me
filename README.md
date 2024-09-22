@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! I'm Sudhan, a passionate student pursuing Artificial Intelligence and Data Science. I enjoy exploring new technologies, solving complex problems, and developing impactful projects
+Hello! I'm Sudhan, a passionate student pursuing Artificial Intelligence and Data Science. I enjoy exploring new technologies and developing impactful projects
 
 
 ## 🌐 Socials:
